@@ -1,0 +1,22 @@
+{
+  "capture_name": "sample_lab_capture",
+  "total_packets": 12876,
+  "unique_src_ips": 42,
+  "syn_packets": 3110,
+  "syn_without_ack": 2975,
+  "udp_packets": 534,
+  "avg_ttl": 58.1,
+  "ttl_stddev": 32.7,
+  "estimated_fragments": 120,
+  "max_packets_per_second": 860,
+  "top_talkers": [
+    { "ip": "192.168.198.131", "packets": 4200 },
+    { "ip": "10.0.0.5", "packets": 1800 }
+  ],
+  "suspected_anomalies": [
+    { "type": "SYN_FLOOD", "detail": { "syn": 3110, "syn_no_ack": 2975 } },
+    { "type": "PACKET_BURST", "detail": { "max_pps": 860 } },
+    { "type": "POSSIBLE_IP_SPOOFING", "detail": { "ttl_stddev": 32.7, "avg_ttl": 58.1 } }
+  ],
+  "notes": "Sample output format for review purposes. Real outputs depend on the captured traffic."
+}
