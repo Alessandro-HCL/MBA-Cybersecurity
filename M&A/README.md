@@ -83,24 +83,24 @@ The framework is structured into three main modules:
 ---
 
 ## 📸 Screenshots
-Below are selected screenshots stored in [`/docs/screenshots`](./docs/screenshots):
+Below are selected screenshots stored in [`/docs/screenshots`](https://github.com/Alessandro-HCL/MBA-Cybersecurity/tree/main/M%26A/docs/screenshots):
 
-- ![Main Menu](./docs/screenshots/main_menu.png.png)  
+- ![Main Menu](https://github.com/Alessandro-HCL/MBA-Cybersecurity/blob/main/M%26A/docs/screenshots/main_menu.png.png)  
   *Main framework menu showing available modules.*  
 
-- ![Red Team Attack Submenu](./docs/screenshots/red_team_attack_submenu.png.png)  
+- ![Red Team Attack Submenu](https://github.com/Alessandro-HCL/MBA-Cybersecurity/blob/main/M%26A/docs/screenshots/red_team_attack_submenu.png.png)  
   *Submenu for launching controlled Red Team attack simulations.*  
 
-- ![Cybersecurity App Flow](./docs/screenshots/cybersecurity_app_flow.png.png)  
+- ![Cybersecurity App Flow](https://github.com/Alessandro-HCL/MBA-Cybersecurity/blob/main/M%26A/docs/screenshots/cybersecurity_app_flow.png.png)  
   *High-level workflow of the cybersecurity simulation framework.*  
 
-- ![Diagnostic EoL/EoS Check](./docs/screenshots/diagnostic_eol_eos_check.png.png)  
+- ![Diagnostic EoL/EoS Check](https://github.com/Alessandro-HCL/MBA-Cybersecurity/blob/main/M%26A/docs/screenshots/diagnostic_eol_eos_check.png.png)  
   *Output showing verification of End-of-Life / End-of-Support devices.*  
 
-- ![IP Spoofing Terminal Diagnostic](./docs/screenshots/ip_spoofing_terminal_diagnostic.png.png)  
+- ![IP Spoofing Terminal Diagnostic](https://github.com/Alessandro-HCL/MBA-Cybersecurity/blob/main/M%26A/docs/screenshots/ip_spoofing_terminal_diagnostic.png.png)  
   *Terminal output highlighting spoofed IP traffic detection.*  
 
-- ![PNETLab Logical Topology](./docs/screenshots/pnetlab_logical_topology.png.png)  
+- ![PNETLab Logical Topology](https://github.com/Alessandro-HCL/MBA-Cybersecurity/blob/main/M%26A/docs/screenshots/pnetlab_logical_topology.png.png)  
   *Logical topology of the lab environment modeled in PNETLab.*  
 
 ---
