@@ -1,1 +1,22 @@
-chore: add requirements.txt for reproducibility
+# Data analysis and numerical computing
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+matplotlib
+
+# Network packet capture and analysis
+scapy
+
+# Remote SSH automation
+paramiko
+
+# Network scanning
+python-nmap
+
+# HTTP requests
+requests
+
+# Web interface prototype
+streamlit
