@@ -1,11 +1,14 @@
 # M&A Project Core
 
-Esta pasta contém o **projeto principal** do framework de simulação e detecção preditiva.
+This folder contains the **main project** of the Cybersecurity Simulation and Predictive Detection Framework.
 
-Estrutura:
-- `Menu.py` → Menu principal para navegar entre os módulos.  
-- `Red_team_ataque_OKAY.py` → Simulação de ataques ofensivos.  
-- `Blue_team_detecção_OKAY.py` → Detecção passiva de tráfego de rede.  
-- `Coleta_dados_OKAY.py` → Coleta de dados de rede para inventário.  
-- `M&A_análise_OKAY.py` → Módulo de análise focado em M&A (inventário, EoL/EoS).  
-- `docs/` → Relatórios, validações acadêmicas e evidências.  
+### Structure:
+- `Menu.py` → Main menu to navigate between modules.  
+- `Red_team_ataque_OKAY.py` → Offensive attack simulations.  
+- `Blue_team_detecção_OKAY.py` → Passive network traffic detection.  
+- `Coleta_dados_OKAY.py` → Network data collection for inventory.  
+- `M&A_análise_OKAY.py` → Analysis module focused on M&A (inventory, EoL/EoS checks).  
+- `docs/` → Reports, academic validation, and supporting evidence.  
+
+This is the **core deliverable** of the project.
+
