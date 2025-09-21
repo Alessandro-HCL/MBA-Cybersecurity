@@ -78,7 +78,9 @@ The framework is structured into three main modules:
 - [Red Team script](https://github.com/Alessandro-HCL/MBA-Cybersecurity/blob/main/M%26A/Red_team_ataque_OKAY.py) → Controlled attack simulations (hping3 / Kali)  
 - [Blue Team script](https://github.com/Alessandro-HCL/MBA-Cybersecurity/blob/main/M%26A/Blue_team_detec%C3%A7%C3%A3o_OKAY.py) → Passive monitoring & Scapy analysis  
 - [Data collection script](https://github.com/Alessandro-HCL/MBA-Cybersecurity/blob/main/M%26A/Coleta_dados-OKAY.py) → Automated Wireshark/tshark capture    
-- [Docs folder](https://github.com/Alessandro-HCL/MBA-Cybersecurity/tree/main/M%26A/docs/screenshots) → Reports, MBA defense material, and screenshots  
+- [Docs folder](https://github.com/Alessandro-HCL/MBA-Cybersecurity/tree/main/M%26A/docs/screenshots) → Reports, MBA defense material, and screenshots
+- 📄 **Executive Summary (PDF):** [open](https://github.com/Alessandro-HCL/MBA-Cybersecurity/blob/main/M%26A/docs/reports/Executive%20Summary.pdf)  
+  - 🧪 Sample outputs: [anomaly_report.json](https://github.com/Alessandro-HCL/MBA-Cybersecurity/blob/main/M%26A/docs/reports/anomaly_report.json) · [anomaly_packets.csv](https://github.com/Alessandro-HCL/MBA-Cybersecurity/blob/main/M%26A/docs/reports/anomaly_packets.csv)
 
 ---
 
