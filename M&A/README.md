@@ -74,7 +74,7 @@ The framework is structured into three main modules:
 ---
 
 ## 🔗 Project Modules & Key Files
-- [Menu script](./M&A/Menu.py) → Main entrypoint for framework navigation  
+- [Menu script](https://github.com/Alessandro-HCL/MBA-Cybersecurity/blob/main/M%26A/Menu.py) → Main entrypoint for framework navigation  
 - [Red Team script](./M&A/Red_team_ataque_OKAY.py) → Controlled attack simulations (hping3 / Kali)  
 - [Blue Team script](./M&A/Blue_team_detecção_OKAY.py) → Passive monitoring & Scapy analysis  
 - [Data collection script](./M&A/Coleta_dados-OKAY.py) → Automated Wireshark/tshark capture  
